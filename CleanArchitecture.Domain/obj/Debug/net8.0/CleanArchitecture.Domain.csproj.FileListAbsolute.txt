@@ -10,3 +10,4 @@
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/refint/CleanArchitecture.Domain.dll
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.pdb
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/ref/CleanArchitecture.Domain.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.sourcelink.json

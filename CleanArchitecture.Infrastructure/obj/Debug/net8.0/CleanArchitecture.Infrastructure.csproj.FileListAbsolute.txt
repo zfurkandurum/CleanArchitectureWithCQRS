@@ -15,3 +15,4 @@
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/refint/CleanArchitecture.Infrastructure.dll
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.pdb
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/ref/CleanArchitecture.Infrastructure.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.sourcelink.json

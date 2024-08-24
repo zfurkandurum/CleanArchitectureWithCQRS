@@ -1,6 +1,9 @@
+using CleanArchitecture.Application.Common.Mappings;
+using CleanArchitecture.Domain.Entity;
+
 namespace CleanArchitecture.Application.Blogs.Queries.GetBlogs;
 
-public class BlogVM
+public class BlogVM : IMapFrom<Blog>
 {
     public int Id { get; set; }
     public string Name { get; set; }

@@ -43,3 +43,4 @@
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.API/obj/Debug/net8.0/CleanArchitecture.API.pdb
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.API/obj/Debug/net8.0/CleanArchitecture.API.genruntimeconfig.cache
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.API/obj/Debug/net8.0/ref/CleanArchitecture.API.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.API/obj/Debug/net8.0/CleanArchitecture.API.sourcelink.json

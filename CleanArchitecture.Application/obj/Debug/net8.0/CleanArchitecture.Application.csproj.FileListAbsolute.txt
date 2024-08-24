@@ -13,3 +13,4 @@
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/refint/CleanArchitecture.Application.dll
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.pdb
 /Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/ref/CleanArchitecture.Application.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.sourcelink.json
