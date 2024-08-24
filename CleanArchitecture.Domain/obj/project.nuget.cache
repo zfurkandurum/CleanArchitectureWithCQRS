@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f7H/Wu6JH0r56sDiSjBpyT0mqvZh72zEx/Y1EgEYie0fEWAOV2jbBpVcXnbiyApNR9YuoY3hS93CWVATeBbLFw==",
+  "success": true,
+  "projectFilePath": "/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/zekifurkandurum/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/Users/zekifurkandurum/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/zekifurkandurum/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

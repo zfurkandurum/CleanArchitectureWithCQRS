@@ -1,0 +1,17 @@
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net8.0/CleanArchitecture.Infrastructure.deps.json
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net8.0/CleanArchitecture.Infrastructure.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net8.0/CleanArchitecture.Infrastructure.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net8.0/CleanArchitecture.Application.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net8.0/CleanArchitecture.Application.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.AssemblyInfo.cs
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.csproj.CopyComplete
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/refint/CleanArchitecture.Infrastructure.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Debug/net8.0/ref/CleanArchitecture.Infrastructure.dll

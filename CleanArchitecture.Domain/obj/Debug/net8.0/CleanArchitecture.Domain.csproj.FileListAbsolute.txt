@@ -1,0 +1,12 @@
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.deps.json
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.csproj.AssemblyReference.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/refint/CleanArchitecture.Domain.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Domain/obj/Debug/net8.0/ref/CleanArchitecture.Domain.dll

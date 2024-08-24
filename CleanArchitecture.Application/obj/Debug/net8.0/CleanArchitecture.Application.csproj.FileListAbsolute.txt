@@ -1,0 +1,15 @@
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.deps.json
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfo.cs
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.CopyComplete
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/refint/CleanArchitecture.Application.dll
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.pdb
+/Users/zekifurkandurum/RiderProjects/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/ref/CleanArchitecture.Application.dll
