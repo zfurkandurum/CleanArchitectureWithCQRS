@@ -8,7 +8,7 @@ public interface IBlogRepository
     Task<Blog> GetByIdAsync(int id);
     Task<Blog> CreateAsync(Blog blog);
     Task<int> UpdateAsync(int id, Blog blog);
-    Task<Blog> DeleteAsync(int id);
+    Task<int> DeleteAsync(int id);
 
 
 }
